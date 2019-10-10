@@ -1,0 +1,1 @@
+console.log("AHOJ SVET")
