@@ -1,8 +1,19 @@
-// vypis do konzoly
-console.log("Ahoj")
+setTimeout(() => {
+    document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
+document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
+document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
+document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
+document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
+document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
+document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
+document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
+document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
+document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
+document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
+document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
+document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
+document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
+document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
+document.write('<img class="irc_mi" src="https://pbs.twimg.com/profile_images/1027314133585154048/cRCN2r7-.jpg" alt="Výsledok vyhľadávania obrázkov pre dopyt crying laughing emoji deep fried" width="237" height="237" style="">')
 
-// vyskakovacie okno (dialog)
-alert("Ahoj")
-
-// pripoj na koniec stranky dalsi text
-document.write("Ahoj!")
+}, 4000)
