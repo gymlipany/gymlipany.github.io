@@ -1,21 +1,31 @@
-
-console.log("Tomáš")
-console.log("Miženko")
-//console.log("ahoj xdd")  toto je komentar
-
+// kometntar
 
 /*
-console.log("Tojhbzuáš") toto je komentar
-console.log("dfn")  toto je komentar
+viac riadkov
 */
 
-//uloha: vypis ahoj 4 krat
+// vypis ahoj 4 krat
 // let a = "bonifac"
 // console.log(a)
 // console.log(a)
 // console.log(a)
 // console.log(a)
 
+// nie -> ahoj_svet
+// nie -> AhojSvet
+// ano -> ahojSvet
+
+// let cislo = 0.5
+// let text = "Ahoj more hento je text."
+// let somDoma = false
+
+// console.log(cislo)
+// console.log(text)
+// console.log(somDoma)
+// let a = 2
+// let b = 5
+// let c = 2*a + 2*b
+// console.log(c)
 
 // let a = 1 + 2
 // let b = 2 - 1
@@ -26,9 +36,22 @@ console.log("dfn")  toto je komentar
 
 // let okruhlenie = Math.round(5/3)
 
+// let a = "Ahoj"
+// let c = "svet."
 
-let a = "Ahoj"
-let c = "svet."
+// console.log(a + c)
 
-console.log( a + c )
+// let cislo = 3
+// let text = "Hento je "
+// let cisloString = String(cislo)
+// console.log(cisloString + 3)
 
+// console.log("3" + "3") // vysledok "33"
+// console.log( 3  +  3 ) // vyledok 6
+
+// console.log(typeof(3))
+
+// vstup
+let a = parseInt(prompt("Zadajte a:"))
+let b = parseInt(prompt("Zadajte b:"))
+alert(a + b)
