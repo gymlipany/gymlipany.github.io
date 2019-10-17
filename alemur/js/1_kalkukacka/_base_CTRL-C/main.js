@@ -4,3 +4,4 @@ let b = parseInt(prompt("Prosím zadajte b:"))
 alert(a * b)
 
 
+document.write("Ahoj")
