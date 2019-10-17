@@ -1,6 +1,6 @@
 
-console.log("Tomáš")
-console.log("Miženko")
+// console.log("Tomáš")
+// console.log("Miženko")
 //console.log("ahoj xdd")  toto je komentar
 
 
@@ -27,8 +27,11 @@ console.log("dfn")  toto je komentar
 // let okruhlenie = Math.round(5/3)
 
 
-let a = "Ahoj"
-let c = "svet."
+// let a = "Ahoj"
+// let c = "svet."
 
-console.log( a + c )
+// console.log( a + c )
 
+let a = parseInt(prompt("Zadajte a:"))
+let b = parseInt(prompt("Zadajte b:"))
+alert(a + b)
