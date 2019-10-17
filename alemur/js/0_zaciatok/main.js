@@ -1,3 +1,15 @@
+// vypis Ahoj 4x
+// let a = "Choj"
+// console.log(a)
+// console.log(a)
+// console.log(a)
+// console.log(a)
+
+
+
+
+
+
 // kometntar
 
 /*
@@ -51,7 +63,6 @@ viac riadkov
 
 // console.log(typeof(3))
 
-// vstup
-let a = parseInt(prompt("Zadajte a:"))
-let b = parseInt(prompt("Zadajte b:"))
-alert(a + b)
+// let a = parseInt(prompt("Prosím zadajte a:"))
+// let b = parseInt(prompt("Prosím zadajte b:"))
+// alert(a * b)

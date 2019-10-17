@@ -52,6 +52,15 @@ viac riadkov
 // console.log(typeof(3))
 
 // vstup
-let a = parseInt(prompt("Zadajte a:"))
-let b = parseInt(prompt("Zadajte b:"))
-alert(a + b)
+// let a = parseInt(prompt("Zadajte a:"))
+// let b = parseInt(prompt("Zadajte b:"))
+// alert(a + b)
+
+// vypis do konzoly
+console.log("ahoj")
+
+// vyskakovacie okno
+alert("ahoj")
+
+// pripoj na koniec sttranky dalsi text
+document.write("ahoj")
