@@ -36,3 +36,22 @@ viac riadkov
 
 // let okruhlenie = Math.round(5/3)
 
+// let a = "Ahoj"
+// let c = "svet."
+
+// console.log(a + c)
+
+// let cislo = 3
+// let text = "Hento je "
+// let cisloString = String(cislo)
+// console.log(cisloString + 3)
+
+// console.log("3" + "3") // vysledok "33"
+// console.log( 3  +  3 ) // vyledok 6
+
+// console.log(typeof(3))
+
+// vstup
+let a = parseInt(prompt("Zadajte a:"))
+let b = parseInt(prompt("Zadajte b:"))
+alert(a + b)
