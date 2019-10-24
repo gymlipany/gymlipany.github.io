@@ -1,11 +1,11 @@
 body {
     font-family: Consolas, sans-serif;
-    background: #111;
+    background: rgb(60, 161, 13);
     margin: 0;
     color: white;
     overflow: hide;
 }
 
 canvas {
-    background: #0f0f0f;
+    background: rgb(0, 0, 0);
 }
