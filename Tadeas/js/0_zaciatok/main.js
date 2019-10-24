@@ -30,5 +30,5 @@ console.log(a)
  //vstup
  let t=parseInt(prompt("Zadajte t:"))
  let k=parseInt(prompt("Zadajte k:"))
- alert(t+k)
+ alert(t+k)4568
 
