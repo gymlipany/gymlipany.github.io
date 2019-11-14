@@ -1,9 +1,13 @@
 body {
     font-family: Consolas, sans-serif;
-    background: rgb(19, 12, 12);
+    background: #111;
     margin: 0;
     color: white;
     overflow: hide;
+}
+
+a {
+    color: greenyellow;
 }
 
 canvas {
