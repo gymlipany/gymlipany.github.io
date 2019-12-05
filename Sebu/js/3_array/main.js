@@ -17,3 +17,8 @@ console.log(arr)
 // spojenie 2 poli = concat
 // a.concat(b)
 console.log(  [1, 2].concat([3, 4, 5])  )
+
+let pole1 = ["a", "b"]
+let pole2 = [1, 2 ,3]
+let spojene = pole1.concat(pole2)
+console.log(spojene)
