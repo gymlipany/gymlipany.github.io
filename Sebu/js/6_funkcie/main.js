@@ -27,8 +27,9 @@ console.log("Sucet 2 a 6 je " + spocitaj(2, 6))
 
 
 function vypis_a_vrat(x) {
-    console.log(x)
+    
     return x
+    console.log(x)
 }
 
 let p = vypis_a_vrat(3)
@@ -74,3 +75,27 @@ function f() {
 f()
 console.log(premenna)
 
+// anonymné funkcie
+// bez mena
+// jozo je robotnik
+let jozo = function () {
+    console.log("Robim robim!!!")
+}
+
+// ja volám funkciu
+// volanie funkcie
+jozo()
+
+// lambda
+// skrateny vyraz anonymnej funkcie
+let jozoSkratka = () => {
+    console.log("Robim !!§")
+}
+
+jozoSkratka()
+
+
+let scitajCisla = (a, b) => a + b
+let druhaMocnina = (a) => a*a
+
+console.log(druhaMocnina(4))
