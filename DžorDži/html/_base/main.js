@@ -1,22 +1,11 @@
-let x = 0
 let y = 0
-
+let x = 0 
 function setup() {
-    createCanvas(1366, 650)
+    createCanvas(1366, 1300)
 }
 function draw() {
+y += x*0.6
+x++
     stroke(100, 0, 0)
     line(x, y, x*0.8, y*0.9)
-x++
-y += x*0.6
-
-}
-if (x == 650){
-    console.log("konec")
-    }
-else if (x > 650) {
-    console.log("zaciatok")
-}
-else {
-    
 }
