@@ -30,8 +30,10 @@ $("#tlacidlo").click(
 let x = 0
 
 // najpouzivajensie
-$("#tlacidlo").click(() => {
-    x++
-    $("#pocitadlo").text(x)
-})
+
+let poKliknuti = () => {
+    console.log("XD")
+}
+$("#pocitadlo").mouseup(poKliknuti)
+
 
