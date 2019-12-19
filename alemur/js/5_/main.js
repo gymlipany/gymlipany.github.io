@@ -8,3 +8,6 @@ while (i < 100 ) {
     console.log(i)
     i += 4
 }
+
+$("#tacidlo").text("Ahoj")
+console.log($("#tlacidlo").text())
