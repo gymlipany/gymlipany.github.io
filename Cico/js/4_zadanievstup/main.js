@@ -1,10 +1,5 @@
-
-
-
-$("#button1").click( () => {
-    alert("Serus")
-} ) 
-
-
-
-document.write("Ahoj" + " Feri")
+$("#btnOk").click(() => {
+    $("#span").text(
+        "Ahoj, " + $("#meno").val() + "."
+    )
+})
