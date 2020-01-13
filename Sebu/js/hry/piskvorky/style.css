@@ -1,9 +1,10 @@
 body {
     font-family: Consolas, sans-serif;
-    background: #333;
+    background: black;
     margin: 0;
     color: white;
-    overflow: hide;
+    display: flex;
+    justify-content: center;
 }
 
 a {
