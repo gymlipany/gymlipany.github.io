@@ -186,7 +186,7 @@ function poKliknuti(xi, yi) {
 
     // skontrolujme ci niekto vyhral a nastavme koniecHry ak hej
     if (vyhral == X) {
-        infoSprava = "Vyhráva X !!!0 \n(Klikni tu pre novú hru)"
+        infoSprava = "Vyhráva X !!! \n(Klikni tu pre novú hru)"
         koniecHry = true
     } else if (vyhral == O) {
         koniecHry = true
