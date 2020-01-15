@@ -6,20 +6,11 @@
         farba kocky => farbaKocky
 */
 
-// symboly policiek
-/* pre buducu generaciu
-const mX = 10 // modre X
-const cX = 11 // cervene X
+// funkcia stroke() ktora berie hodnoty (cervenej, zelenej, modrej) a zhotovi farbu a nastavi ju ako farbu pera / okrajov
+// tieto hodnoty su v intervale <0, 255>
+// teda napr. biela farba je stroke(255, 255, 255)
 
-const mO = 20 // modre O
-const cO = 21 // cervene O
-*/
-
- // funkcia stroke() ktora berie hodnoty (cervenej, zelenej, modrej) a zhotovi farbu a nastavi ju ako farbu pera / okrajov
- // tieto hodnoty su v intervale <0, 255>
- // teda napr. biela farba je stroke(255, 255, 255)
-
- // funkcia fill robi to iste iba ze nastavuje výplň a nie okraje
+// funkcia fill robi to iste iba ze nastavuje výplň a nie okraje
 
 // -----------------------------------------------------------
 
