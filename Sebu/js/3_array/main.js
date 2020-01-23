@@ -22,3 +22,22 @@ let pole1 = ["a", "b"]
 let pole2 = [1, 2 ,3]
 let spojene = pole1.concat(pole2)
 console.log(spojene)
+
+
+
+
+
+
+// ----- skratene for pre pole -----------
+pl = [4, 2, 3]
+
+for (let x of pl) {
+    // x = kazdy prvok
+    console.log(x)
+}
+
+for (let i in pl) {
+    // i = kazdy index
+    console.log(i)
+    console.log("hodnota " + pl[i])
+}
