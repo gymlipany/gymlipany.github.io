@@ -11,5 +11,5 @@ class pes {
 
     
 }
-let p1 = new("boby", 4, 8)
+let p1 = new pes( "boby", 4, 8)
 
