@@ -72,5 +72,57 @@ console.log(objektSSka)
 let jsonArrayu = `["Pes", "macka", "kotleba"]`
 console.log(JSON.parse(jsonArrayu))
 
-// 1. -> ulozte do premennej json string objektu, ktory ma nejake x a y
+// 1. -> ulozte do premennej json string objektu, ktory ma x=4 a y=3
 // 2. -> prekonvertujte ten json na objekt, vypiste len x
+
+//1.)
+let object = {
+  x: "harabin",
+  y: 1111
+}
+let utvar = JSON.stringify(object)
+
+//2.)
+let vysledok = JSON.parse(utvar)
+console.log(vysledok.x)
+
+console.log("======== ULOHA NA DOMA =============")
+// obedy je json string, ale ked date parse vam vypluje array
+let OBEDY = `[
+  {
+    "den": "Pondelok",
+    "datum": "9. 3. 2020",
+    "jedla": [
+      "Polievka karfiolová so zeleninou",
+      "Pasta sciutta/špagety s mletým mäsom/",
+      "Čaj čierny"
+    ]
+  },
+  {
+    "den": "Utorok",
+    "datum": "10. 3. 2020",
+    "jedla": [
+      "Polievka pórová so zemiakmi ",
+      "Bravčový guláš segedínsky",
+      "Knedľa kysnutá ",
+      "Voda s ovocným sirupom s najmenej 50% ovocnej zložky",
+      "Pomaranče"
+    ]
+  },
+  {
+    "den": "Streda",
+    "datum": "11. 3. 2020",
+    "jedla": [
+      "Polievka fazuľová s fliačkami",
+      "Hovädzia pečienka znojemská ",
+      "Zemiaky",
+      "Šalát z čínskej kapusty s kukuricou",
+      "Ovocný nápoj "
+    ]
+  }
+]`
+
+// 1. -> vypiste, ake je prve jedlo v pondelok
+// 2. -> vypiste, aky je datum v Stredu
+// 3. -> pre kazdy den (for let of), vypiste array jediel v tento den (mozete aj najprv vypisat ze o aky den sa jedna)
+
